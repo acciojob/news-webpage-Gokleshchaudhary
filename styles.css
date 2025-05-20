@@ -19,6 +19,14 @@ body {
     border: 1px solid #ccc;
 }
 
+.Main-Article-Section{
+	background-color: white;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
+
 .pictorial-news-section {
     background-color: white;
     padding: 20px;
