@@ -23,7 +23,7 @@ body {
 .latest-news-section, .main-article, .pictorial-news-section {
     background-color: #ffffff;
     padding: 20px;
-    margin: 10px; /* Add some margin for spacing */
+    margin: 0px; /* Add some margin for spacing */
     border-radius: 8px;
     flex: 1; /* Make each section take equal space */
 }
