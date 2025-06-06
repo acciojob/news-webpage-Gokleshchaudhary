@@ -15,27 +15,19 @@ body {
     margin: 20px auto;
 }
 
-.news-section {
-    display: flex; /* Enable flexbox */
-    justify-content: space-between; /* Space between items */
-}
-
 .latest-news-section, .main-article, .pictorial-news-section {
     background-color: #ffffff;
-    padding: 0px;
-    margin: 0px; /* Add some margin for spacing */
+    padding: 15px;
+    margin: 10px 0; /* Add margin for spacing */
     border-radius: 8px;
-    flex: 1; /* Make each section take equal space */
 }
-
-.main-article {
-    margin: 0 10px; /* Adjust margin for main article */
-}
-
 
 .pictorial-news-section img {
     width: 80%;
-	max-width: 300px;
+    max-width: 300px;
     margin: 10px;
     border-radius: 5px;
+    display: block; /* Center the images */
+    margin-left: auto;
+    margin-right: auto;
 }
