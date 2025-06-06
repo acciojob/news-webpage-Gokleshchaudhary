@@ -31,3 +31,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.pictorial-news-section {
+    text-align: center; /* Ensure this is set to center */
+}
